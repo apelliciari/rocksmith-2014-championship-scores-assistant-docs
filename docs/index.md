@@ -7,10 +7,11 @@ title: Home
 
 This is the documentation of the Score Assistant project for the [Rocksmith 2014 Championship](https://customsforge.com/index.php?/forum/38-rocksmith-championship/).
 
-The frontend app (UI) is located at: https://rocksmith-cf-champ-assistant.web.app/
+The frontend app (UI) is located at: 
+[https://rocksmith-cf-champ-assistant.web.app/](https://rocksmith-cf-champ-assistant.web.app/)
 Dev documentation can be found on the README of the main repository:
 
-https://github.com/rocksmith-2014-championship/rocksmith-2014-championship-scores-assistant
+[https://github.com/rocksmith-2014-championship/rocksmith-2014-championship-scores-assistant](https://github.com/rocksmith-2014-championship/rocksmith-2014-championship-scores-assistant)
 
 ## Features
 
@@ -23,7 +24,7 @@ https://github.com/rocksmith-2014-championship/rocksmith-2014-championship-score
 ## Getting Started
 
 * Understand the [possible states](score-states.md) of a score.
-* Discover the [flow of the application](flow.md)
+* Discover the [flow of the application](flow.md).
 * Read about the 3 main components:
     * the [Scraper](scraper.md)
     * the [Detector](detector.md)
